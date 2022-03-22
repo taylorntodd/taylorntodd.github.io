@@ -11,9 +11,9 @@
 body
 {
 	text-align: center;
-	text-color: rgb(255,255,255)
+	color: white;
 	list-style-position: inside;
-	background-color:  var(--taylor-light-pink);
+	background-color: #ce897b;
 }
 header
 {
