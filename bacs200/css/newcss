@@ -1,0 +1,61 @@
+/*
+*
+{
+	border: 15px solid pink;
+}
+*/
+:root
+{
+	--taylor-light-pink: #ecb7bf;
+}
+body
+{
+	text-align: center;
+	list-style-position: inside;
+	background-color:  var(--taylor-light-pink);
+}
+header
+{
+	background-color:  rgb(255,105,180);
+	border: 15px dotted (255,182,193);
+	margin: 15px 100px;
+}
+header h1
+{
+	font-size:  75pt;
+	margin-top:  15px;
+	margin-bottom: 0;
+}
+header h2
+{
+	font-size:  30pt;
+	color: var(--taylor-light-pink);
+	font-variant: large-caps;
+}
+main h1
+{
+	font-size:  80pt;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
+}
+h1+h2
+{
+	margin-top: -25px;
+}
+main h2
+{
+	text-decoration: underline;
+	font-weight: italics;
+	margin-bottom: 60;
+}
+main ul
+{
+	display:  table;
+	margin: 0 auto;
+	text-align:  right;
+	padding-left: 2px;
+}
+{
+	font-size: 35pt;
+	float:  left;
+}
