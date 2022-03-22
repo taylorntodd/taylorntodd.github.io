@@ -11,14 +11,15 @@
 body
 {
 	text-align: center;
+	text-color: white
 	list-style-position: inside;
 	background-color:  var(--taylor-light-pink);
 }
 header
 {
 	background-color:  rgb(255,105,180);
-	border: 15px dotted (255,182,193);
-	margin: 15px 100px;
+	border: 15px dotted (255,255,255);
+	margin: 10px 100px;
 }
 header h1
 {
@@ -35,7 +36,7 @@ header h2
 main h1
 {
 	font-size:  80pt;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: "Edition", Courier New;
 	margin: 0;
 }
 h1+h2
