@@ -11,7 +11,7 @@
 body
 {
 	text-align: center;
-	text-color: white
+	text-color: rgb(255,255,255)
 	list-style-position: inside;
 	background-color:  var(--taylor-light-pink);
 }
